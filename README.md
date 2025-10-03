@@ -23,9 +23,7 @@ Java-Game-Project/
 ├── src/
 │ └── main/
 │ └── java/
-│ └── <your packages>
 ├── target/ # compiled classes & build artifacts
-├── .gitignore
 └── pom.xml # Maven config (or your build tool file)
 ```
 
