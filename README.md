@@ -41,10 +41,22 @@ This project uses:
 
 ## 🎯 Gameplay / Controls
 
-- Use **arrow keys / WASD** to move  
-- Press **Space / Enter** to jump / shoot / select  
+- Use **WASD** to move
 - Collision: players/enemies/obstacles  
 - Game over / win conditions
+
+---
+
+## 📄 How to play
+
+- Collect **coin/bill/diamond/gold/etc.**
+- Use it to open the **door**
+- Get a **key** in the room
+- Use a key to open the **chest**
+- You win!
+
+**Becareful don't hit bomb/fire/handcuff/etc.**
+**And run away from NPC(Boy with a red hat)**
 
 ---
 
