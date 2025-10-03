@@ -45,3 +45,12 @@ This project uses:
 - Press **Space / Enter** to jump / shoot / select  
 - Collision: players/enemies/obstacles  
 - Game over / win conditions
+
+---
+
+## 🧭 Gameplay Screenshot
+
+![Main Menu](images/mainmenu_page.png)
+![In game](images/ingame_page.png)
+![Win](images/winning_page.png)
+
